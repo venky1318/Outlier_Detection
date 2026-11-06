@@ -1,0 +1,14 @@
+Metric,Value
+Total employees,30.0
+Minimum salary,35000.0
+Maximum salary,350000.0
+Mean salary,74233.33
+Median salary,61000.0
+First quartile (Q1),48500.0
+Third quartile (Q3),79500.0
+Interquartile range (IQR),31000.0
+Lower boundary,2000.0
+Upper boundary,126000.0
+Lower outlier count,0.0
+Upper outlier count,1.0
+Total potential outliers,1.0
